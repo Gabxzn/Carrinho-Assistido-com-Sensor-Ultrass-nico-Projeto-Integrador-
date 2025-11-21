@@ -52,7 +52,7 @@ Aqui estão imagens do processo de montagem e do protótipo:
 | ![](assets/Foto_carrinho7.jpg) | ![](assets/Foto_carrinho8.jpg) | ![](assets/Foto_carrinho9.jpg) |
 
 ### 🎥 Vídeos de Teste
-Clique nos links abaixo para visualizar os testes:
+Clique nos links abaixo para baixar e visualizar os testes por vídeo:
 
 * 🎬 [Assistir Teste de Funcionamento 1](assets/video-carrinho1.mp4)
 * 🎬 [Assistir Teste de Funcionamento 2](assets/video-carrinho2.mp4)
