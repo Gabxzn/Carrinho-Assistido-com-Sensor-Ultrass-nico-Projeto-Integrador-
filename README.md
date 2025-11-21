@@ -34,12 +34,15 @@ O projeto justifica-se pelos dados alarmantes de acidentes elétricos no Brasil 
 O projeto utiliza um circuito baseado no Arduino Uno interligado ao Driver L298N.
 *(O esquemático completo e as simulações no Tinkercad podem ser consultados no relatório disponível na pasta `/docs`)*.
 
-## 📈 Status do Desenvolvimento
-- [x] Montagem mecânica do chassi.
-- [x] Validação dos drivers de potência (Substituição de Pilhas por Bateria Li-Ion).
-- [x] Lógica de desvio de obstáculos.
-- [ ] **Em andamento:** Implementação do código final com a lógica do Servo Motor (Vassoura).
-- [ ] **Em andamento:** Upload do código fonte (`.ino`) na pasta `/src`.
+## 🚀 Status do Desenvolvimento
+
+| Status | Tarefa |
+| :---: | :--- |
+| ✅ | **Montagem mecânica do chassi.** |
+| ✅ | **Validação dos drivers de potência** (Substituição de Pilhas por Bateria Li-Ion). |
+| ✅ | **Lógica de desvio de obstáculos.** |
+| ⏳ | **Em andamento:** Implementação do código final com a lógica do Servo Motor (Vassoura). |
+| ⏳ | **Pendente:** Upload do código fonte (`.ino`) na pasta `/src`. |
 
 ## 📸 Galeria do Projeto
 
