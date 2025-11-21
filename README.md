@@ -54,16 +54,16 @@ Aqui estão imagens do processo de montagem e do protótipo:
 ### 🎥 Vídeos de Teste
 Clique nos links abaixo para visualizar os testes:
 
-* 🎬 [Assistir Teste de Funcionamento 1](assets/video_carrinho1.mp4)
-* 🎬 [Assistir Teste de Funcionamento 2](assets/video_carrinho2.mp4)
-* 🎬 [Assistir Teste de Funcionamento 3](assets/video_carrinho3.mp4)
-* 🎬 [Assistir Teste de Funcionamento 4](assets/video_carrinho4.mp4)
-* 🎬 [Assistir Teste de Funcionamento 5](assets/video_carrinho5.mp4)
-* 🎬 [Assistir Teste de Funcionamento 6](assets/video_carrinho6.mp4)
-* 🎬 [Assistir Teste de Funcionamento 7](assets/video_carrinho7.mp4)
-* 🎬 [Assistir Teste de Funcionamento 8](assets/video_carrinho8.mp4)
-* 🎬 [Assistir Teste de Funcionamento 9](assets/video_carrinho9.mp4)
-* 🎬 [Assistir Teste de Funcionamento 10](assets/video_carrinho10.mp4)
+* 🎬 [Assistir Teste de Funcionamento 1](assets/video-carrinho1.mp4)
+* 🎬 [Assistir Teste de Funcionamento 2](assets/video-carrinho2.mp4)
+* 🎬 [Assistir Teste de Funcionamento 3](assets/video-carrinho3.mp4)
+* 🎬 [Assistir Teste de Funcionamento 4](assets/video-carrinho4.mp4)
+* 🎬 [Assistir Teste de Funcionamento 5](assets/video-carrinho5.mp4)
+* 🎬 [Assistir Teste de Funcionamento 6](assets/video-carrinho6.mp4)
+* 🎬 [Assistir Teste de Funcionamento 7](assets/video-carrinho7.mp4)
+* 🎬 [Assistir Teste de Funcionamento 8](assets/video-carrinho8.mp4)
+* 🎬 [Assistir Teste de Funcionamento 9](assets/video-carrinho9.mp4)
+* 🎬 [Assistir Teste de Funcionamento 10](assets/video-carrinho10.mp4)
 
 ## 📄 Documentação
 O relatório técnico completo, com: introdução teórica, justificativas e referências bibliográficas, está disponível neste repositório:
