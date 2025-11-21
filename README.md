@@ -1,2 +1,49 @@
-# Carrinho-Assistido-com-Sensor-Ultrass-nico-Projeto-Integrador-
-Projeto Integrador do curso de Eletroeletrônica - IFSP Hortolândia. Veículo autônomo para auxílio no transporte de ferramentas e segurança do trabalho.
+# 🚜 Veículo Autônomo Assistivo - Projeto Integrador
+
+**Instituto Federal de São Paulo (IFSP) - Câmpus Hortolândia**
+*Curso Técnico em Eletroeletrônica*
+
+## 👥 Autores
+* Gabriel Alonso de Castro
+* Leonardo Galvão de Freitas
+* Matheus Alves Ramos
+* Pedro Augusto Melo
+
+## 📖 Sobre o Projeto
+Este projeto consiste no desenvolvimento de um veículo autônomo assistivo focado em **segurança** e **acessibilidade** no ambiente de instalações elétricas. O objetivo é auxiliar profissionais no transporte de ferramentas e na organização do local, mitigando riscos ergonômicos e acidentes.
+
+O projeto justifica-se pelos dados alarmantes de acidentes elétricos no Brasil (mais de 800 mortes em 2024, segundo a CNN Brasil) e pela necessidade de inclusão de profissionais com mobilidade reduzida ou limitações físicas.
+
+### ⚙️ Funcionalidades Principais
+* **Navegação Autônoma:** Desvio de obstáculos e pessoas utilizando sensor ultrassônico.
+* **Transporte de Carga:** Estrutura com motores de redução para carregar maletas de ferramentas.
+* **Segurança:** Parada automática ao detectar presença humana.
+* **Sistema de Limpeza (Em desenvolvimento):** Mecanismo de "vassoura" automatizada com servomotor para limpeza de resíduos (fios, fitas) do chão.
+
+## 🛠️ Hardware e Componentes
+| Componente | Função no Projeto |
+| :--- | :--- |
+| **Arduino Uno** | Microcontrolador central ("Cérebro") que processa a lógica de navegação. |
+| **Sensor HC-SR04** | Sensor ultrassônico para leitura de distância e detecção de obstáculos. |
+| **Driver Ponte H L298N** | Controle de potência e direção dos motores DC. |
+| **Motores DC + Redução** | Motores 3-6V com caixa de redução para garantir **torque** (força) no transporte de peso. |
+| **Bateria Li-Ion 7V** | Fonte de alimentação de alta densidade (substituindo pilhas AA para corrigir falta de corrente). |
+| **Micro Servo (SG90)** | Atuador para o mecanismo de elevação da vassoura. |
+
+## 🔌 Esquemático Eletrônico
+O projeto utiliza um circuito baseado no Arduino Uno interligado ao Driver L298N.
+*(O esquemático completo e as simulações no Tinkercad podem ser consultados no relatório disponível na pasta `/docs`)*.
+
+## 🚀 Status do Desenvolvimento
+- [x] Montagem mecânica do chassi.
+- [x] Validação dos drivers de potência (Substituição de Pilhas por Bateria Li-Ion).
+- [x] Lógica de desvio de obstáculos.
+- [ ] **Em andamento:** Implementação do código final com a lógica do Servo Motor (Vassoura).
+- [ ] **Em andamento:** Upload do código fonte (`.ino`) na pasta `/src`.
+
+## 📄 Documentação
+O relatório técnico completo, contendo introdução teórica, justificativas de engenharia e referências bibliográficas, está disponível neste repositório:
+👉 [Acesse o Relatório Final (PDF)](docs/Relatório%20Final-Projeto%20Integrador%20Eletroeletrônica.pdf)
+
+---
+*2025 - IFSP Hortolândia*
