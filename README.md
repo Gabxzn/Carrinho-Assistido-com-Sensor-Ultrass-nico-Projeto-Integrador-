@@ -41,8 +41,8 @@ O projeto utiliza um circuito baseado no Arduino Uno interligado ao Driver L298N
 | ✅ | **Montagem mecânica do chassi.** |
 | ✅ | **Validação dos drivers de potência** (Substituição de Pilhas por Bateria Li-Ion). |
 | ✅ | **Lógica de desvio de obstáculos.** |
-| ⏳ | **Em andamento:** Implementação do código final com a lógica do Servo Motor (Vassoura). |
-| ⏳ | **Pendente:** Upload do código fonte (`.ino`) na pasta `/src`. |
+| ✅ | **Implementação do código final.** (Com a lógica do Servo Motor para a Vassoura). |
+| ✅ | **Pendente:** Upload do código fonte e das fotos e vídeos do carrinho. |
 
 ## 📸 Galeria do Projeto
 
@@ -71,6 +71,10 @@ Clique nos links abaixo para baixar e visualizar os testes por vídeo:
 ## 📄 Documentação
 O relatório técnico completo, com: introdução teórica, justificativas e referências bibliográficas, está disponível neste repositório (formato PDF): [Relatório Final-Projeto Integrador Eletroeletrônica.pdf](https://github.com/user-attachments/files/23809845/Relatorio.Final-Projeto.Integrador.Eletroeletronica.pdf)
 
+## 📥 Download do Código
+Você pode baixar o código final para abrir diretamente na Arduino IDE:
+
+👉 [**Clique para baixar o arquivo .ino**](https://raw.githubusercontent.com/Gabxzn/Carrinho-Assistido-com-Sensor-Ultrass-nico-Projeto-Integrador-/refs/heads/main/src/Codigo_Final.ino)
 
 ---
 
