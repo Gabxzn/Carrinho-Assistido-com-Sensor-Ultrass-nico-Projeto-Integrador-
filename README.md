@@ -42,7 +42,7 @@ O projeto utiliza um circuito baseado no Arduino Uno interligado ao Driver L298N
 | ✅ | **Validação dos drivers de potência** (Substituição de Pilhas por Bateria Li-Ion). |
 | ✅ | **Lógica de desvio de obstáculos.** |
 | ✅ | **Implementação do código final.** (Com a lógica do Servo Motor para a Vassoura). |
-| ✅ | **Pendente:** Upload do código fonte e das fotos e vídeos do carrinho. |
+| ✅ | **Upload do código fonte e das fotos e vídeos do carrinho.** |
 
 ## 📸 Galeria do Projeto
 
@@ -74,7 +74,7 @@ O relatório técnico completo, com: introdução teórica, justificativas e ref
 ## 📥 Download do Código
 Você pode baixar o código final para abrir diretamente na Arduino IDE:
 
-👉 [**Clique para baixar o arquivo .ino**](https://raw.githubusercontent.com/Gabxzn/Carrinho-Assistido-com-Sensor-Ultrass-nico-Projeto-Integrador-/refs/heads/main/src/Codigo_Final.ino)
+👉 [**Clique para abrir o arquivo .ino**](https://raw.githubusercontent.com/Gabxzn/Carrinho-Assistido-com-Sensor-Ultrass-nico-Projeto-Integrador-/refs/heads/main/src/Codigo_Final.ino)
 
 ---
 
