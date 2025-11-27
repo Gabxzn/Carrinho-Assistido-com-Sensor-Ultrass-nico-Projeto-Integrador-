@@ -69,9 +69,9 @@ Clique nos links abaixo para baixar e visualizar os testes por vídeo:
 * 🎬 [Assistir Teste de Funcionamento 10](assets/video-carrinho10.mp4)
 
 ## 📄 Documentação
-O relatório técnico completo, com: introdução teórica, justificativas e referências bibliográficas, está disponível neste repositório:
-👉 [Acesse o Relatório Final (PDF): [Relatório Final-Projeto Integrador Eletroeletrônica (1).pdf](https://github.com/user-attachments/files/23809839/Relatorio.Final-Projeto.Integrador.Eletroeletronica.pdf)
+O relatório técnico completo, com: introdução teórica, justificativas e referências bibliográficas, está disponível neste repositório (formato PDF): [Relatório Final-Projeto Integrador Eletroeletrônica.pdf](https://github.com/user-attachments/files/23809845/Relatorio.Final-Projeto.Integrador.Eletroeletronica.pdf)
 
 
 ---
+
 *2025 - IFSP Hortolândia*
