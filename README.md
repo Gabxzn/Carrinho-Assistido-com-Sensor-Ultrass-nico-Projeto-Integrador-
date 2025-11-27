@@ -70,7 +70,8 @@ Clique nos links abaixo para baixar e visualizar os testes por vídeo:
 
 ## 📄 Documentação
 O relatório técnico completo, com: introdução teórica, justificativas e referências bibliográficas, está disponível neste repositório:
-👉 [Acesse o Relatório Final (PDF)](ainda não)
+👉 [Acesse o Relatório Final (PDF): [Relatório Final-Projeto Integrador Eletroeletrônica (1).pdf](https://github.com/user-attachments/files/23809839/Relatorio.Final-Projeto.Integrador.Eletroeletronica.pdf)
+
 
 ---
 *2025 - IFSP Hortolândia*
