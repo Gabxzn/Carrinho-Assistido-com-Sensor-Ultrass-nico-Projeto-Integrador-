@@ -7,7 +7,7 @@
 * Gabriel Alonso de Castro
 * Leonardo Galvão de Freitas
 * Matheus Alves Ramos
-* Pedro Augusto Melo
+* Pedro Augusto da Costa Melo
 
 ## 📖 Sobre o Projeto
 Este projeto consiste no desenvolvimento de um veículo autônomo assistivo focado em **segurança** e **acessibilidade** no campo de trabalho. O objetivo é auxiliar profissionais no transporte de ferramentas, objetos e na organização do local, mitigando os riscos de acidentes.
