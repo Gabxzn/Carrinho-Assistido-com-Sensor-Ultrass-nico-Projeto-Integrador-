@@ -29,6 +29,21 @@ O projeto justifica-se pelos dados alarmantes de acidentes elétricos no Brasil 
 | **Motores DC + Redução** | Motores 3-6V com caixa de redução para garantir **torque** (força) no transporte de peso. |
 | **Bateria Li-Ion 7V** | Fonte de alimentação de alta capacidade. |
 | **Micro Servo (SG90)** | Atuador para o mecanismo de elevação da vassoura. |
+## 📏 Dimensões do Protótipo
+Especificações físicas do veículo montado:
+
+| Componente | Valor |
+| :--- | :--- |
+| **Comprimento do Chassi** | 26 cm |
+| **Largura do Chassi** | 15 cm |
+| **Comprimento Total** | 31,5 cm |
+| **Largura Total (com rodas)** | 15,5 cm |
+| **Altura do Chassi** | 5 cm |
+| **Altura Total (com roda)** | 6,5 cm |
+| **Diâmetro da Roda** | 6,5 cm |
+| **Altura da Vassoura** | 8,3 cm |
+| **Largura da Vassoura** | 10 cm |
+| **Altura do Sensor Ultrassônico** | 12 cm |
 
 ## 🔌 Esquemático Eletrônico
 O projeto utiliza um circuito baseado no Arduino Uno interligado ao Driver L298N.
