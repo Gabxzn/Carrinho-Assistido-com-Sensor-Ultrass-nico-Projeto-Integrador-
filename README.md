@@ -32,7 +32,7 @@ O projeto justifica-se pelos dados alarmantes de acidentes elétricos no Brasil 
 ## 📏 Dimensões do Protótipo
 Especificações físicas do veículo montado:
 
-| Componente | Valor |
+| Componente | Medida |
 | :--- | :--- |
 | **Comprimento do Chassi** | 26 cm |
 | **Largura do Chassi** | 15 cm |
