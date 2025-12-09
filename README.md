@@ -68,7 +68,8 @@ Aqui estão imagens do processo de montagem e do protótipo:
 | ![](assets/Foto_carrinho1.jpg) | ![](assets/Foto_carrinho2.jpg) | ![](assets/Foto_carrinho3.jpg) |
 | ![](assets/Foto_carrinho4.jpg) | ![](assets/Foto_carrinho5.jpg) | ![](assets/Foto_carrinho6.jpg) |
 | ![](assets/Foto_carrinho7.jpg) | ![](assets/Foto_carrinho8.jpg) | ![](assets/Foto_carrinho9.jpg) |
-
+| ![](assets/Foto_carrinho10.jpg) | ![](assets/Foto_carrinho11.jpg) | ![](assets/Foto_carrinho12.jpg) |
+| ![](assets/Foto_carrinho13.jpg) | ![](assets/Foto_carrinho14.jpg) | |
 ### 🎥 Vídeos de Teste
 Clique nos links abaixo para baixar e visualizar os testes por vídeo:
 
